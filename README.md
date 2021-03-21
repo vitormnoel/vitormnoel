@@ -1,7 +1,7 @@
   ## Hey, my name is Vitor and this is my repository. Be welcome! 
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitormnoel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vitormnoel&layout=compact&langs_count=8&theme=dracula"/>
-  ##
+  
   </br>
   
   ### You can contact me here 👇🏽
@@ -10,4 +10,3 @@
   <a target="_blank" href="https://www.linkedin.com/in/vitor-manoel-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a target="_blank" href="https://instagram.com/vitormnoel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-###
