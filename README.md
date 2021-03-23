@@ -1,4 +1,4 @@
-  ## Hey, my name is Vitor and this is my repository. Be welcome! 
+  ## Hey, this is my repository. Be welcome! 
   <a href="https://github.com/vitormnoel">
   <div style="display: inline_block">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitormnoel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
