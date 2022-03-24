@@ -3,6 +3,7 @@
   <h3>📱 &nbsp; Contact: </h3>
   
   <a href = "mailto: vtormnoel@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="gmal"></a> 
+  <a href = "https://www.linkedin.com/in/vitormnoel/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-064878?style=flat-square&logo=linkedin&logoColor=white" alt="gmal"></a>
   
   <h2>👨🏻‍💻 &nbsp; Profile</h2>
   <p>I am a computer science student at Federal University of Catalão, I am a web, and mobile developer. I had my first computer when I was eleven, since that day I want to understand how this machine works, and how I can communicate with it. Here I keep some personal projects that I developed in University or just for fun.</p>
