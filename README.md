@@ -6,7 +6,7 @@
   <a href = "https://www.linkedin.com/in/vitormnoel/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-064878?style=flat-square&logo=linkedin&logoColor=white" alt="gmal"></a>
   
   <h2>👨🏻‍💻 &nbsp; Profile</h2>
-  <p>I am a computer science student at Federal University of Catalão, I am a web, and mobile developer. </p>
+  <p>I am a computer science student at Federal University of Catalão, I am (trying to be) a Full Stack developer. </p>
   
   <h2>💻 &nbsp; Front End</h3>  
   <div style="flex:grid;">
