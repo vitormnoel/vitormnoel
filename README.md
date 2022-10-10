@@ -1,4 +1,4 @@
-  <h1>👋🏽  &nbsp; Hi, Stranger! I am a full stack developer in progress.</h1>
+  <h1>👋🏽  &nbsp; Hi, Stranger! I am a full-stack developer <i style="font-weight: 100">in progress</i>.</h1>
   
   <h3>📱 &nbsp; Contact: </h3>
   
