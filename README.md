@@ -2,7 +2,7 @@
 
 - 💻 I'm a software developer
 - 🎓 I have a degree in Computer Science
-- 📫 You can reach me on: [portfolio](www.vitormanoel.com) | [linkedin](www.linkedin.com/in/vitormanoel) | [email](mailto:hi@vitormanoel.com)
+- 📫 You can reach me on: [portfolio](https://www.vitormanoel.com) | [linkedin](https://www.linkedin.com/in/vitormanoel) | [email](mailto:hi@vitormanoel.com)
 
 ### 👨🏻‍💻 Languages and tools:
 
